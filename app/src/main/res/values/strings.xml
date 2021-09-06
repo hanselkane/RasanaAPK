@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RasanaRasyidah</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_dashboard">Produksi</string>
+    <string name="title_notifications">Kawasan</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaGFuc2Vsa2FuZSIsImEiOiJja3E0bHp3aHkwaW82MnhzM3B1bDIyeDg4In0.m_re73ZPy4eRxxBHcmVcpg</string>
+    <string name="access_token">pk.eyJ1IjoiaGFuc2Vsa2FuZSIsImEiOiJja3E0bHp3aHkwaW82MnhzM3B1bDIyeDg4In0.m_re73ZPy4eRxxBHcmVcpg</string>
+    <string name="large_text">
+        <a>https://studio.mapbox.com/tilesets/hanselkane.garut/#15.65/-7.244654/107.807576</a>
+    </string>
+
+    <string name="group1">
+        Paprika…
+    </string>
+    <string name="group2">
+        Tomat Beef…
+    </string>
+    <string name="group3">
+        Kiuri…
+    </string>
+    <string name="group4">
+        Sayuran Hidroponik…
+    </string>
+    <string name="group5">
+        Bawang Merah…
+    </string>
+    <string name="group6">
+        Padi Polybag…
+    </string>
+    <string name="group7">
+        Buah Tin…
+    </string>
+    <string name="group8">
+        Anggur Brazil…
+    </string>
+    <string name="group9">
+        Produk Hilir…
+    </string>
+</resources>
